@@ -29,6 +29,6 @@
 5. Nama   : Rifqi Permana
    NIM    : H2020000005
    JK     : Laki - Laki
-   Agama  : Islam
+   Agama  : kristen
    TTL    : Ambon, 19 Agustus 2003
    Alamat : Jln. Loa Bakung RT.21 No.04
